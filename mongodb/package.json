@@ -1,0 +1,20 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "putting it all together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanea",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "bootstrap": "^3.4.1",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "mongodb": "^4.7.0",
+    "path": "^0.12.7",
+    "requests": "^0.3.0"
+  }
+}

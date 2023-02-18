@@ -1,0 +1,19 @@
+1. introduction: class methods
+2. introduction: function methods
+3. states and prevState
+4. parameters
+5. Destructing props
+6. function click
+7. class click
+8. event binding in class
+9. inheritance 
+10. mapping
+12. lifecycle
+13. focus input
+14. error handling
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
