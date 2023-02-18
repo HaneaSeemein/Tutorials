@@ -1,1 +1,4 @@
-*/node_modules/
+mongodb/node_modules/
+react/node_modules/
+gitut/node_modules/
+express/node_modules/
